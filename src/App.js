@@ -1,9 +1,9 @@
 
+import Deliverable from './containers/Deliverable/Deliverable';
+
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <Deliverable></Deliverable>
   );
 }
 
